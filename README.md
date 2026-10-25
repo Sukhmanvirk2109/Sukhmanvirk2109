@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sukhmanvirk2109
 - 👀 I’m interested in Computer science
-- 🌱 I have completed my high school
+- 🌱 I am currently studying information technology at Amity University Punjab
 - 💞️ I’m looking to collaborate on a project related to field of computer science
 - 📫 You can contact me on my email sukhmanjeetsinghvirk@gmail.com
 
